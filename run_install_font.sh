@@ -1,3 +1,3 @@
-git clone https://github.com/hantaotaohan/Dotfiles.git &&\
-cd $HOME/Dotfiles/install &&\
-sudo ./install_desktop.sh
+git clone https://github.com/hantaotaohan/Fonts.git &&\
+cd $HOME/Fonts &&\
+sudo ./install.sh
