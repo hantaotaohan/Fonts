@@ -1,3 +1,3 @@
-git clone --depth 1 -q https://github.com/hantaotaohan/Fonts.git ~/Fonts/ &&\
+git clone --depth 1 -q https://hub.fastgit.org/hantaotaohan/Fonts.git ~/Fonts/ &&\
 cd $HOME/Fonts &&\
 ./install.sh
